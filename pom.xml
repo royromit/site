@@ -42,7 +42,8 @@
 			<artifactId>spring-context</artifactId>
 			<version>${spring.version}</version>
 		</dependency>
- <dependency>
+<!--
+	  <dependency>
  	<groupId>org.hibernate.javax.persistence</groupId>
  	<artifactId>hibernate-jpa-2.0-api</artifactId>
  	<version>1.0.1.Final</version>	
@@ -55,15 +56,17 @@
       <artifactId>postgresql</artifactId>
       <version>9.4.1212</version>
     </dependency>
-	  
+-->	  
 	  
  		<!-- https://mvnrepository.com/artifact/org.hibernate/hibernate-core -->
-<dependency>
+
+<!--	  
+	  <dependency>
     <groupId>org.hibernate</groupId>
     <artifactId>hibernate-core</artifactId>
     <version>4.3.10.Final</version>
 </dependency>
- 		
+ 	-->	
 <dependency>
     <groupId>javax.servlet</groupId>
     <artifactId>servlet-api</artifactId>
@@ -87,7 +90,7 @@
 </dependency>
  		
  		
- 
+ <!--
  		<dependency>
  		<groupId>commons-dbcp</groupId>
  		<artifactId>commons-dbcp</artifactId>
@@ -106,7 +109,7 @@
  	<version>5.0.7</version>
  </dependency>
  
- 		
+ -->		
   		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>jstl</artifactId>
@@ -143,13 +146,13 @@
 			<version>1.2.1</version> 
 		</dependency>
 		
-		<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-crypto -->
+		<!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-crypto 
 <dependency>
     <groupId>org.springframework.security</groupId>
     <artifactId>spring-security-crypto</artifactId>
     <version>3.1.0.RELEASE</version>
 </dependency>
-
+-->
 
 <dependency>
 		    <groupId>org.springframework.security</groupId>
