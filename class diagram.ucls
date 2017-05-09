@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.14" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="com.pack1.signup.signup" project="OnlineShoppingSite" 
+    file="/OnlineShoppingSite/src/main/java/com/pack1/signup/signup.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="262" width="195" x="480" y="-162"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="com.pack1.cart.cart" project="OnlineShoppingSite" 
+    file="/OnlineShoppingSite/src/main/java/com/pack1/cart/cart.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="260" width="169" x="293" y="-34"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="com.pack1.items.item" project="OnlineShoppingSite" 
+    file="/OnlineShoppingSite/src/main/java/com/pack1/items/item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="204" width="157" x="504" y="128"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="com.pack1.user.user" project="OnlineShoppingSite" 
+    file="/OnlineShoppingSite/src/main/java/com/pack1/user/user.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="113" width="148" x="801" y="-109"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="com.pack1.HelloController" project="ShoppingSite" 
+    file="/ShoppingSite/src/main/java/com/pack1/HelloController.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="430" width="236" x="50" y="-324"/>    
+    <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
